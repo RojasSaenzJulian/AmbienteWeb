@@ -1,0 +1,37 @@
+.principal {
+    color: #f545;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color:rgb(241, 201, 2)
+}
+img{
+    
+    width: 20%;
+    height: 20%;
+    
+    
+}
+
+
+#clase2 {
+    width: 100px;
+    justify-content: center;
+    
+}
+
+body {
+    background-color: white;
+}
+footer{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
